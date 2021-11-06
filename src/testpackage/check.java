@@ -7,6 +7,8 @@ public class check {
 		System.out.println("one");
 		System.out.println("oneR");
 		System.out.println("oneRQ");
+		System.out.println("oneRQ");
+		System.out.println("oneRQ");
 	}
 
 }
